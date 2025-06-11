@@ -1,3 +1,4 @@
+// demo.go modified
 package main
 
 import "fmt"
